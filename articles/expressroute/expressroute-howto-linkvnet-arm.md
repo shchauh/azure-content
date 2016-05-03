@@ -122,7 +122,7 @@ The circuit owner can revoke/delete authorizations to the user by running the fo
 
 ### Circuit user operations
 
-The circuit user needs the peer ID and an authorization key from the circuit owner. The circuit key looks similar to the one listed below:
+The circuit user needs the peer ID and an authorization key from the circuit owner. The circuit key looks similar to the one listed below: 
 
 
 The authorization key is a GUID.
